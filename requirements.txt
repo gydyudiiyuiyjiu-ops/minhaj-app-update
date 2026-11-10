@@ -1,0 +1,3 @@
+# KMJ TIPS Toast Control Bot
+# No dependencies - this bot uses ONLY the Python standard library.
+# Ye file sirf host ko batane ke liye hai ki ye ek Python project hai.
